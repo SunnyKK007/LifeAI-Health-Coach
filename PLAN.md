@@ -35,7 +35,7 @@
 *   **Demo Preparation:** Finalize the application build for stakeholder presentation and MVP launch.
 ---
 ## 📦 Phase 1 Deliverable
-A production-ready AI health coaching application capable of understanding health goals, maintaining persistent memory, tracking wearable telemetry natively, and logging nutritional intake via cloud-based computer vision.
+* A production-ready AI health coaching application capable of understanding health goals, maintaining persistent memory, tracking wearable telemetry natively, and logging nutritional intake via cloud-based computer vision.*
 ---
 ## 🔮 Phase 2: Future Expansion (Post-MVP)
 *Note: The following features are strictly outside the 40-day MVP timeline. They map the future scalability of the platform and will be initiated only if development time permits after MVP validation.*
