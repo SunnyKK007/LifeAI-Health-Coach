@@ -22,4 +22,4 @@ This document details the exact technical competencies and frameworks used to co
     *   **Pipeline Engineering:** Feature engineering targeting behavioral matrices (app session length, telemetry frequency) to generate predictive churn and regression Risk Scores.
 *   **Enterprise Dashboards:** React.js web portals heavily utilizing secure WebSockets for real-time coach-to-patient communication. 
 *   **Data Aggregation:** Deploying analytical scripts to sanitize and aggregate population-level data structures for B2B HR reporting without violating PII constraints.
-*   
+  
