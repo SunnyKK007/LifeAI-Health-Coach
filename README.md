@@ -48,14 +48,11 @@ To handle multimodal data efficiently, the backend utilizes a robust microservic
 
 Because this is a React Native project, a single TypeScript codebase deploys natively to both iOS and Android. 
 
-### Prerequisites
-*   **Node.js (v18+):** Required to run the Metro Bundler (the local development server that compiles JavaScript) and manage `npm` packages. *(Note: The backend API runs independently on Python/FastAPI).*
-*   **Android Studio:** Provides the Android SDK and Emulator for local Android testing.
-*   **Xcode (Mac only):** Provides the iOS Simulator and CocoaPods for linking native iOS libraries.
-
-### Installation
-1. Clone the repository and install the JavaScript dependencies:
-```bash
-   git clone [https://github.com/yourusername/LifeAI-Health-Coach.git](https://github.com/yourusername/LifeAI-Health-Coach.git)
-   cd LifeAI-Health-Coach
-   npm install
+### 📁 Project Structure
+```text
+LifeAI_Project/
+ ├── android/       <-- Android Studio uses this folder to build the native .apk
+ ├── ios/           <-- Xcode uses this folder to build the native .ipa
+ ├── src/           <-- Core UI & Logic (Your shared JS/TypeScript workspace)
+ ├── package.json   <-- Project dependencies and installed libraries
+ └── App.tsx        <-- The starting point and root of the application
