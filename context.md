@@ -54,4 +54,3 @@ The secondary phase scales the MVP into a clinical-grade preventative healthcare
 *   **Predictive Machine Learning (Proactive Care):** XGBoost classification models that analyze behavioral metadata (time spent in app, typing speed, logging frequency). Models flag user profiles with a "Risk Score" to intercept burnout before churn occurs.
 *   **Corporate Wellness Dashboard:** A B2B portal for HR departments displaying strictly anonymized aggregate data regarding employee engagement, weight lost, and estimated healthcare dollars saved.
 *   **Social Challenges:** Community leaderboards enabling company-wide step challenges and peer accountability loops.
-*   
